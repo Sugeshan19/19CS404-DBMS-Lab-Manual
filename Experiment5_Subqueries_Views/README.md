@@ -59,6 +59,7 @@ select * from customers
 where salary < 2500
 ```
 
+
 **Output:**
 
 <img width="873" height="434" alt="image" src="https://github.com/user-attachments/assets/53589b3b-5f52-47cd-be6d-7c8c18d01126" />
